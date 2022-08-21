@@ -1,4 +1,4 @@
-# Augmented-Reality-from-scratch
+# Augmented-Reality-App
 In this project series we are going to implement a series of project files, where at the end we will make a <b>Final Software</b> which will be capable to take 
 a picture from us and augment any 3-D model or any other picture to the live video stream.</br></br>
 <h2>First Module Details : (FEATURE DETECTION) </h2>
